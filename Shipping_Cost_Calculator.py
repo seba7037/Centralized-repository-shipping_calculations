@@ -20,4 +20,4 @@ print(f"Shipping Cost: {shipping_cost} USD")
 # here is another update by Seba7027
 ## calculating index
 
-print(f" index
+print(f" index")
